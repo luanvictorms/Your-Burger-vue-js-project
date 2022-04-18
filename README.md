@@ -7,8 +7,8 @@
 
 
 <img src="https://user-images.githubusercontent.com/82541610/163809108-4bae7104-9eee-4d9f-b498-fc75fc719b2c.png" alt="exemplo imagem">
-<img src="https://user-images.githubusercontent.com/82541610/163808199-15695b1b-b5a3-4ffc-b224-0eda508f39eb.png" alt="exemplo imagem">
-<img src="https://user-images.githubusercontent.com/82541610/163808213-41316ba1-e69c-401c-99af-5fb4a4f7e180.png" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/82541610/163809282-46b045f0-e6fc-4fc5-85c8-0fbde0708956.png" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/82541610/163809304-e969f874-5bc0-479b-9d35-cf0709757c51.png" alt="exemplo imagem">
 
 > O projeto e criar uma Hamburgueria estilo Subway que possua gerenciamento de Pedidos utilizando um CRUD.
 
