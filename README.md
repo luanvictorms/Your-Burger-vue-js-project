@@ -6,7 +6,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/Your-Burger-vue-js-project)
 
 
-<img src="https://user-images.githubusercontent.com/82541610/163808157-ab8f35f1-2d79-4cec-9ac5-bae23e1d1d22.png" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/82541610/163809108-4bae7104-9eee-4d9f-b498-fc75fc719b2c.png" alt="exemplo imagem">
 <img src="https://user-images.githubusercontent.com/82541610/163808199-15695b1b-b5a3-4ffc-b224-0eda508f39eb.png" alt="exemplo imagem">
 <img src="https://user-images.githubusercontent.com/82541610/163808213-41316ba1-e69c-401c-99af-5fb4a4f7e180.png" alt="exemplo imagem">
 
