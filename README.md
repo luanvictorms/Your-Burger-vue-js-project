@@ -5,8 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/Your-Burger-vue-js-project)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/Your-Burger-vue-js-project)
 
-
-<img src="https://user-images.githubusercontent.com/82541610/163812319-40d95a2b-7c23-476b-88b8-4dcf8bc1ab54.mp4" alt="exemplo imagem">
+<img src="https://user-images.githubusercontent.com/82541610/163812443-68d4de25-f349-4fc1-9b34-b98a40bfc51a.png" alt="exemplo imagem">
 <img src="https://user-images.githubusercontent.com/82541610/163809108-4bae7104-9eee-4d9f-b498-fc75fc719b2c.png" alt="exemplo imagem">
 <img src="https://user-images.githubusercontent.com/82541610/163809282-46b045f0-e6fc-4fc5-85c8-0fbde0708956.png" alt="exemplo imagem">
 <img src="https://user-images.githubusercontent.com/82541610/163809304-e969f874-5bc0-479b-9d35-cf0709757c51.png" alt="exemplo imagem">
